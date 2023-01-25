@@ -39,7 +39,7 @@ const sr = ScrollReveal({
 
 sr.reveal(`.easy-writing, .img`,{delay: 400})
 sr.reveal(`.quality`,{delay: 300})
-sr.reveal(`.banner-slider, .footer`,{delay: 300, origin: 'top'})
+sr.reveal(``,{delay: 300, origin: 'top'})
 
 sr.reveal(`.work, .products__card, .footer__logo, .footer__content, .footer__copy`,{origin: 'top', interval: 50})
 sr.reveal(`.our-feature, .discount__animate`,{origin: 'left', interval: 50})
